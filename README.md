@@ -1,8 +1,7 @@
-### Hi there 👋
-I'm Chia En Kang
-I am a software engineer in AUO company...
-Here some info about me
-If there any thing about me u r interest about just contect me with e-mail 😄
+### Hi there 👋  
+I'm Chia En Kang a software engineer in AUO company.  
+Here some info about me...  
+If there any thing about me u r interest about just contect me with e-mail 😄  
 
 - 🔭 I’m currently working on FastAPI, Azure, DevOps, No code Machine Learning Platform. 
 - 🌱 I’m currently learning data structure skills ....
