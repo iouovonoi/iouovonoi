@@ -9,4 +9,4 @@ If there any thing about me u r interest about just contect me with e-mail 😄
 - 📫 How to reach me: iouovonoi@gmail.com
 - ⚡ Fun fact about me: Friends saw seal videos (:３っ)∋ always think of me 🤣
 
-![LeetCode Stats](https://leetcode.card.workers.dev/iouovonoi?theme=wtf&font=source_code_pro&extension=activity)
+![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/iouovonoi?theme=light&font=Kumbh%20Sans&ext=contest))
